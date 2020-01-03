@@ -3,7 +3,9 @@
 ## Thinking in Design Patterns
 
 This is my most cherished topic and I am passionate about writing on design patterns than any other topic. If we are software developers in the object-oriented world, then we need to embrace design patterns. So, let's get into the topic as we all know how important it is.
-Pre-requisites 
+
+### Pre-requisites 
+
 •	Proficiency in at least one object-oriented programming language.
 •	Experience in object-oriented design.
 •	Please refer to earlier chapters as I have focused on object-oriented concepts and UML overview.
